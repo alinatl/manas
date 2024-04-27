@@ -18,3 +18,5 @@ https://docs.google.com/spreadsheets/d/1_l2Eg7Nib9cjFfiTcP4fqs9gPDPsfM5p/edit#gi
 - - for_annotation: сырые предложения 
   - parsed_conllu: размеченные предложения в json
   - to_conllu_format: переведенные в таблицы conllu, готовые к загрузке на сайт
+
+папка textes_for_annotation: неправильно разбитые по предложениям тексты (без natasha). Номер файла - индекс строки в базе данных в таблице row_string. Не удалены номера строк из текста.
